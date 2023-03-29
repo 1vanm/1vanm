@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Ivan Medvedev</h1>
 <h3 align="left">Geographer who decided to switch to DA</h3>
 
-- 🌱 I’m currently learning **DA at Yandex Practicum [Yandex Practicum][practicum.yandex.ru]**
+- 🌱 I’m currently learning **DA at Yandex Practicum [Yandex Practicum][https://practicum.yandex.ru/]**
 
 - 📫 How to reach me **ivan.medvedev098@gmail.com**
 
