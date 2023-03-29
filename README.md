@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ivan Medvedev</h1>
-<h3 align="center">Geographer who trying in DA</h3>
+<h1 align="left">Hi 👋, I'm Ivan Medvedev</h1>
+<h3 align="left">Geographer who decided to switch to DA</h3>
 
 - 🌱 I’m currently learning **at Yandex Practicum**
 
