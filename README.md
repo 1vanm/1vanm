@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Ivan Medvedev</h1>
-<h3 align="left">Geographer who decided to switch to DA</h3>
+<h3 align="left">Geographer who decided to explore Data Analasys</h3>
 
 - 🌱 I’ve learned **DA at [Yandex Practicum](https://practicum.yandex.ru/)**
 
